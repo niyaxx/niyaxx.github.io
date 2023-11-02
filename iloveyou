@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+iloveyou</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="cute">
+<meta name="description" content="this is for sho only.">
+<style>
+body {background-color:#000000;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
+h4{font-family:Georgia, serif;color:#ffffff;background-color:#ffffff;}
+p {font-family:Georgia, serif;font-size:12px;font-style:normal;font-weight:bold;color:#f2e9e9;background-color:#ffffff;}
+</style>
+</head>
+<body>
+<h4>to be in love is marvelous</h4>
+<p>and so are you.</p>
+<p>(Hint: replace i love you with marvelous.)</p>
+</body>
+</html>
